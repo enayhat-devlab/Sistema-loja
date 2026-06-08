@@ -1,23 +1,35 @@
-# Funcionalidades
+## Funcionalidades
 
-- Biblioteca Rich para estilização do terminal;
-- Programação Orientada a Objetos (POO) básica;
-- Sistema de menu interativo;
-- Cadastro e listagem de clientes;
-- Cadastro e listagem de produtos;
-- Cadastro e listagem de pedidos;
-- Uso de listas, funções e loops;
+* Sistema de gerenciamento de clientes, produtos e pedidos;
+* Cadastro, consulta e listagem de clientes;
+* Cadastro, consulta e listagem de produtos;
+* Registro e gerenciamento de pedidos;
+* Validação de e-mails e códigos de produtos;
+* Controle de estoque;
+* Geração de relatórios em arquivos `.txt`;
+* Implementação de listas encadeadas (versão em C);
+* Interface de menu interativo no terminal;
+* Manipulação de arquivos para armazenamento de dados;
+* Organização modular utilizando funções e estruturas de dados.
 
-# Em linguagem C
+## Tecnologias e Conceitos
 
-Funcionalidades
-Cadastro de clientes;
-Cadastro de produtos;
-Registro de pedidos;
-Exibição de clientes, produtos e pedidos cadastrados;
-Geração de relatórios em arquivos .txt;
-Validação de e-mails cadastrados;
-Consulta de códigos de produtos;
-Implementação de listas encadeadas (listas de nós) para clientes, produtos e pedidos;
+### Versão em C
 
+* Linguagem C;
+* Estruturas (`struct`);
+* Listas encadeadas;
+* Alocação dinâmica de memória (`malloc`);
+* Manipulação de arquivos;
+* Programação estruturada.
+
+### Versão em Python
+
+* Linguagem Python;
+* Programação Orientada a Objetos (POO);
+* Biblioteca Rich para estilização do terminal;
+* Classes e objetos;
+* Modularização do código;
+* Manipulação de listas e arquivos;
+* Menus interativos no terminal.
 
